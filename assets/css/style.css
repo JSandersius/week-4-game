@@ -1,0 +1,107 @@
+body {
+	background-image: url(../images/cuadros.png);
+	background-repeat: repeat;
+	/*background-size: cover;*/
+	/*background-repeat: no-repeat;*/
+}
+
+
+
+#title {
+	border:1px solid #ccc;
+	overflow: auto;
+	position: relative;
+	font-family:"Serif";
+	font:"Georgia";
+	font-size: 20px;
+	background-color: orange; 
+	color: white;
+	top:16px;
+	height: 100px;
+	width: 25%;
+
+	/*border: 1px solid green;*/
+}
+
+#text {
+	color: green;
+	background-color:Wheat;
+	height: 350px;
+	width:50%;
+	border:1px solid #ccc;
+	overflow: auto;
+	position: relative;
+	font-family:"Serif";
+	font:"Georgia";
+	height:50%;
+	font-size: 20px; 
+	color: grey;
+	top:16px;
+	
+}
+
+#targetNumberBox {
+	
+	background-color:SeaGreen;
+	height:100px;
+	width: 25%;
+	color:black;
+}
+
+#winLoseBox {
+	
+	background-color:DodgerBlue;
+	color:black;
+	height:100px;
+	width: 25%;	
+}
+
+.btnbtn-default {
+
+	height: 100px;
+	width: 100px;
+	padding: 18px 28px;
+    font-size: 22px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+
+#scoreBox {
+	background-color:LightGreen;
+	color:black;
+	height:100px;
+	width: 25%;	
+
+}
+
+#currentValueBox {
+    background-color:MediumSeaGreen;
+	color:black;
+	height:100px;
+	width: 25%;	
+}
+
+#gem1 {
+background-image: url(../images/bluegem.png);
+background-size: cover;
+} 
+
+#gem2 {
+background-image: url(../images/pinkgem.png);
+background-size: cover;
+}
+
+#gem3 {
+background-image: url(../images/greengem.png);
+background-size: cover;
+}
+
+#gem4 {
+background-image: url(../images/rosegem.png);
+background-size: cover;
+}
+
+
+
