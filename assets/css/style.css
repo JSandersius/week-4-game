@@ -18,7 +18,7 @@ body {
 	color: white;
 	top:16px;
 	height: 100px;
-	width: 25%;
+	/*width: 25%;*/
 
 	/*border: 1px solid green;*/
 }
@@ -27,7 +27,7 @@ body {
 	color: green;
 	background-color:Wheat;
 	height: 350px;
-	width:50%;
+	/*width:50%;*/
 	border:1px solid #ccc;
 	overflow: auto;
 	position: relative;
@@ -44,7 +44,7 @@ body {
 	
 	background-color:SeaGreen;
 	height:100px;
-	width: 25%;
+	/*width: 25%;*/
 	color:black;
 }
 
@@ -53,7 +53,7 @@ body {
 	background-color:DodgerBlue;
 	color:black;
 	height:100px;
-	width: 25%;	
+	/*width: 25%;	*/
 }
 
 .btnbtn-default {
@@ -72,7 +72,7 @@ body {
 	background-color:LightGreen;
 	color:black;
 	height:100px;
-	width: 25%;	
+	/*width: 25%;	*/
 
 }
 
@@ -80,7 +80,7 @@ body {
     background-color:MediumSeaGreen;
 	color:black;
 	height:100px;
-	width: 25%;	
+	/*width: 25%;	*/
 }
 
 #gem1 {
