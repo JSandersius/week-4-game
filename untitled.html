@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	
+	<style>
+	.fancy {
+		font-size: 100px;
+		color: green;
+	}
+</style>
+
+</head>
+<body>
+
+	
+	<!-- We created an empty HTML div. Note that there is no content inside. -->
+	<div id= "empty-Div"></div>
+
+	<script type="text/javascript"> 
+
+	var targetDiv = document.getElementById("empty-Div");
+
+	targetDiv.innerHTML = "hello friends";
+
+	var newDiv = document.createElement("div");
+	newDiv.innerHTML = "hello again";
+
+	targetDiv.appendChild(newDiv);
+
+	newDiv.setAttribute("class", "fancy");
+
+
+
+	</script>
+</body>
+</html>

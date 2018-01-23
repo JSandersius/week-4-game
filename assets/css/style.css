@@ -42,6 +42,7 @@ body {
 
 #targetNumberBox {
 	
+	text-align: center;
 	background-color:SeaGreen;
 	height:100px;
 	/*width: 25%;*/
